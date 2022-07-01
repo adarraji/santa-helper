@@ -11,8 +11,10 @@ const question1 = () => {
         const inputArray = data.toString("utf8").split("");
         const upArray = inputArray.filter(c => c === "(");
         const downArray = inputArray.filter(c => c === ")");
-        console.log(upArray.length - downArray.length);
+        console.log("floor: ", upArray.length - downArray.length);
     });
 }
 
 question1();
+
+
