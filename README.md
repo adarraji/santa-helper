@@ -1,5 +1,5 @@
 # Santa Node helper
-This my solution to part 1 and part 2 of 2015 Advent of Code challenge day 1. You can find more details [here](https://adventofcode.com/2015/day/1) 
+This my solution to part 1 and part 2 of 2015 [Advent of Code](https://adventofcode.com/) challenge day 1. You can find more details [here](https://adventofcode.com/2015/day/1) 
 
 The puzzle input contains opening parenthesis, (, and a closing parenthesis, ).
 
